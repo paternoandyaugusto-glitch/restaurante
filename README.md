@@ -11,9 +11,12 @@ npm run dev
 
 Abrir `http://localhost:3000`. La landing conduce a una demo con datos simulados; no requiere credenciales reales.
 
+La experiencia de cliente está disponible directamente en `http://localhost:3000/menu`.
+
 ## Alcance implementado
 
 - Landing comercial de marca.
+- Menú QR para clientes con personalización, carrito, envío a cocina y seguimiento.
 - Login de demo con perfiles.
 - Dashboard operativo en tiempo real.
 - Mapa visual de mesas y cambios de estado.
